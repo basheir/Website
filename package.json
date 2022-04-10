@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alaale123/Website/issues"
   },
-  "homepage": "https://github.com/alaale123/Website#readme"
+  "homepage": "https://github.com/alaale123/Website#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
 }
